@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tmu {
+    color: #004C9B
+}
+
+.shadow {
+    box-shadow: 3px 3px 0 0 #000000;
+}
+  
+.shadow:hover {
+transform: translate(-3px, -3px);
+box-shadow: 6px 6px 0 0 #000000;
+}
