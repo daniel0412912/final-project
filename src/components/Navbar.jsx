@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav className="p-5 flex justify-between items-center">
         <div className="font-serif">
-            <Link className="text-4xl font-semibold hover:text-gray-500" to="/">DANIEL LI</Link>
+            <Link className="text-4xl font-semibold hover:text-gray-500" to="/final-project/">DANIEL LI</Link>
         </div>
         <div className="flex items-center pr-4">
             <ul className="flex flex-row gap-4 text-xl">
